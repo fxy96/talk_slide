@@ -10,7 +10,7 @@ Content
 
 - The China-R conference 2018. [***Slide***](https://github.com/fxy96/talk_slide/blob/master/slide/AlphaGomoku.pdf).
 
-- Undergraduate graduation thesis presentation. [***Slide***(https://github.com/fxy96/talk_slide/blob/master/slide/xingyu_graduation.pdf).
+- Undergraduate graduation thesis presentation. [***Slide***(https://github.com/fxy96/talk_slide/blob/master/slide/xingyu_graduation.pdf)].
 
 Contact
 ====
